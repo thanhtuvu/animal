@@ -3,3 +3,6 @@ Blue
 Scout
 Rocket
 Steve Chicks
+
+Monty
+Mocha
